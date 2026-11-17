@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi, I'm Gabriela! 👋</h1>
 
 <h3 align="center">
@@ -83,4 +82,3 @@ I believe innovation happens when technical knowledge meets curiosity, creativit
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-```
