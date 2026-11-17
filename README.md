@@ -1,84 +1,157 @@
-<h1 align="center">Hi, I'm Gabriela! 👋</h1>
+<h1 align="center">Gabriela Gomes 👩‍💻</h1>
 
 <h3 align="center">
-Bioprocess Engineering Student | AI & Innovation Enthusiast
+AI Builder | AI Automation | Intelligent Solutions
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=9B72CF&center=true&vCenter=true&width=550&lines=Engineering+%2B+Artificial+Intelligence;Exploring+AI+Builders+and+Automation;Turning+ideas+into+practical+solutions" />
+  Connecting AI, automation and technology to turn ideas into practical solutions.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Builder-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-EC4899?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Innovation-14B8A6?style=for-the-badge"/>
 </p>
 
 ---
 
-### ✨ About Me
+## ✨ About Me
 
-I'm a Bioprocess and Biotechnology Engineering student at UNESP, interested in the intersection of **Artificial Intelligence, Technology, Innovation and Product Development**.
+I'm a Bioprocess and Biotechnology Engineering student at UNESP, interested in the intersection of **Artificial Intelligence, Automation, Technology and Product Innovation**.
 
-My background combines engineering principles, process improvement and project management with an expanding interest in AI-powered solutions.
+I work with AI-powered tools to explore and build practical solutions, connecting language models, applications and automation platforms.
 
-I'm currently exploring how to use artificial intelligence to solve real-world problems, automate workflows and build smarter products.
+My experience includes developing automated HTML dashboards, building workflows involving WhatsApp and other applications, and prototyping digital management platforms with AI-assisted development tools.
 
-- 🎓 Bioprocess and Biotechnology Engineering — UNESP
-- 🤖 Exploring AI applications, LLMs and intelligent agents
-- ⚙️ Interested in workflow automation and process optimization
-- 📊 Six Sigma Green Belt
-- 💡 Passionate about innovation and product development
+I combine this technological experience with an engineering background in process optimization, project management and innovation.
 
-### 🧠 Tech & Tools
+### What I do
 
-**Artificial Intelligence**
+- 🤖 **AI Automation:** Building workflows and integrations using n8n, Make and AI tools.
+- 🔗 **App Integrations:** Connecting WhatsApp, AI models and other applications to automate tasks.
+- 📊 **Automated Dashboards:** Developing HTML dashboards with AI-powered integrations and automated information flows.
+- 🧩 **AI-Assisted Development:** Prototyping digital platforms and management tools using Gemini and Replit.
+- 💡 **AI Product Exploration:** Turning ideas into prototypes and practical technological solutions.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### AI & Language Models
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square"/>
 </p>
 
-**Automation & AI Building**
+### Automation & Integrations
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/Make-6D4AFF?style=flat-square&logo=make&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vibe_Coding-222222?style=flat-square"/>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
 </p>
 
-**Data & Productivity**
+### AI-Assisted Development
 <p>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lovable-FF69B4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+</p>
+
+### Data & Process Management
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Six_Sigma_Green_Belt-2E8B57?style=flat-square"/>
 </p>
 
-### 🚀 Currently Exploring
+---
 
-- AI Agents and intelligent workflows
-- AI-powered process automation
-- No-code and low-code development
-- AI product development
-- Data-driven decision making
-- Engineering applications of Artificial Intelligence
+## 🚀 Projects & Practical Experience
 
-### 💻 Projects
+### 📊 AI-Powered Automated Dashboards
+**Status: Functional**
 
-**Restaurant Intelligence Agent** 🍽️
+Development of HTML-based dashboards combining AI tools and automated integrations to organize information and create interactive visual interfaces.
 
-An AI-powered project in development focused on exploring how artificial intelligence can support restaurant analysis and decision-making.
+**Key areas:**
+- HTML dashboard development
+- AI tool integrations
+- Automated information flows
+- Data visualization
 
-*Status: In development.*
+### 🤖 WhatsApp & App Automation
+**Status: Functional**
 
-### 🎯 My Goal
+Development of automation workflows connecting WhatsApp, AI tools and other applications to streamline communication and repetitive tasks.
 
-To combine my engineering background with Artificial Intelligence to design, build and improve technological solutions that create real value.
+**Key areas:**
+- n8n and Make
+- Application integrations
+- AI-assisted workflows
+- Process automation
 
-I believe innovation happens when technical knowledge meets curiosity, creativity and the willingness to experiment.
+### 🧩 AI-Assisted Management Platforms
+**Status: Prototyping**
+
+Design and prototyping of digital management platforms using Gemini and AI-assisted development tools.
+
+Exploring solutions for productivity, personal organization, goal tracking and business management.
+
+**Key areas:**
+- Google Gemini
+- Replit
+- AI-assisted development
+- Interface and product prototyping
+
+### 🍽️ Restaurant Intelligence Agent
+**Status: In Development**
+
+An AI-powered project exploring how intelligent systems can support restaurant analysis, information organization and data-driven decision-making.
+
+**Key areas:**
+- LLM applications
+- AI agents
+- Workflow automation
+- Business intelligence
+
+---
+
+## 🎓 Engineering & Professional Background
+
+**Bioprocess and Biotechnology Engineering — UNESP**
+
+My engineering background complements my interest in technology through:
+
+- Six Sigma Green Belt
+- Process improvement and optimization
+- Project management and leadership
+- Innovation and product development
+- Maker culture and applied technology
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced AI workflow automation
+- Intelligent agents and multi-step workflows
+- AI integrations through APIs and webhooks
+- AI-powered business solutions
+- Product development with AI-assisted coding
+- Combining engineering knowledge with artificial intelligence
 
 ---
 
 <p align="center">
-  <i>Learning, building and connecting ideas. ✨</i>
+  <b>Building, automating and transforming ideas into solutions. ✨</b>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrieladeangelo/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/GabrielaAGomes-dot">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
